@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 2.0f;
+    public float speed = 4.0f;
     private Rigidbody playerRb;
     private GameObject focalPoint;
 
