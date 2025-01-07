@@ -256,6 +256,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1742899641471652, guid: 923deea38dc6a8843b15db7638919c1e, type: 3}
       propertyPath: m_Name
+<<<<<<< HEAD
       value: Powerup Indicator
       objectReference: {fileID: 0}
     - target: {fileID: 1742899641471652, guid: 923deea38dc6a8843b15db7638919c1e, type: 3}
@@ -273,6 +274,9 @@ PrefabInstance:
     - target: {fileID: 4428908044626120, guid: 923deea38dc6a8843b15db7638919c1e, type: 3}
       propertyPath: m_LocalScale.z
       value: 3
+=======
+      value: SelectionRing_02
+>>>>>>> origin/main
       objectReference: {fileID: 0}
     - target: {fileID: 4428908044626120, guid: 923deea38dc6a8843b15db7638919c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -280,7 +284,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4428908044626120, guid: 923deea38dc6a8843b15db7638919c1e, type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< HEAD
       value: -0.52
+=======
+      value: 0
+>>>>>>> origin/main
       objectReference: {fileID: 0}
     - target: {fileID: 4428908044626120, guid: 923deea38dc6a8843b15db7638919c1e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -527,7 +535,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 4
   hasPowerup: 0
+<<<<<<< HEAD
   powerupIndicator: {fileID: 1506304720}
+=======
+>>>>>>> origin/main
 --- !u!1 &1211016355
 GameObject:
   m_ObjectHideFlags: 0
